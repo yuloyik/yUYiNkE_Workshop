@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>yUYiNkE_Workshop</title>
+    <link href="https://yuloyik.github.io/yUYiNkE_Workshop/feed.xml" rel="self" />
+    <link href="https://yuloyik.github.io/yUYiNkE_Workshop" />
+    <updated>2024-05-09T20:46:18+08:00</updated>
+    <author>
+        <name>yUYiNkE★羽音克</name>
+    </author>
+    <id>https://yuloyik.github.io/yUYiNkE_Workshop</id>
+
+    <entry>
+        <title>yUYiNkE&#x27;s Workshop</title>
+        <author>
+            <name>yUYiNkE★羽音克</name>
+        </author>
+        <link href="https://yuloyik.github.io/yUYiNkE_Workshop/yuyinkes-workshop.html"/>
+        <id>https://yuloyik.github.io/yUYiNkE_Workshop/yuyinkes-workshop.html</id>
+
+        <updated>2024-05-09T20:46:18+08:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image post__image--full"><img loading="lazy"  src="https://yuloyik.github.io/yUYiNkE_Workshop/media/posts/1/Yu-Luo-Gai-Gai-ex.1.png" alt="羽落蓋蓋 &lt; 特編集&gt;" width="1920" height="1080" sizes="(max-width: 48em) 100vw, 768px" srcset="https://yuloyik.github.io/yUYiNkE_Workshop/media/posts/1/responsive/Yu-Luo-Gai-Gai-ex.1-xs.png 300w ,https://yuloyik.github.io/yUYiNkE_Workshop/media/posts/1/responsive/Yu-Luo-Gai-Gai-ex.1-sm.png 480w ,https://yuloyik.github.io/yUYiNkE_Workshop/media/posts/1/responsive/Yu-Luo-Gai-Gai-ex.1-md.png 768w ,https://yuloyik.github.io/yUYiNkE_Workshop/media/posts/1/responsive/Yu-Luo-Gai-Gai-ex.1-lg.png 1024w ,https://yuloyik.github.io/yUYiNkE_Workshop/media/posts/1/responsive/Yu-Luo-Gai-Gai-ex.1-xl.png 1360w ,https://yuloyik.github.io/yUYiNkE_Workshop/media/posts/1/responsive/Yu-Luo-Gai-Gai-ex.1-2xl.png 1600w"></figure>
+            ]]>
+        </content>
+    </entry>
+</feed>

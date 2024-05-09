@@ -1,0 +1,26 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "yUYiNkE_Workshop",
+    "description": "",
+    "home_page_url": "https://yuloyik.github.io/yUYiNkE_Workshop",
+    "feed_url": "https://yuloyik.github.io/yUYiNkE_Workshop/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "yUYiNkE★羽音克"
+    },
+    "items": [
+        {
+            "id": "https://yuloyik.github.io/yUYiNkE_Workshop/yuyinkes-workshop.html",
+            "url": "https://yuloyik.github.io/yUYiNkE_Workshop/yuyinkes-workshop.html",
+            "title": "yUYiNkE&#x27;s Workshop",
+            "content_html": "<figure class=\"post__image post__image--full\"><img loading=\"lazy\"  src=\"https://yuloyik.github.io/yUYiNkE_Workshop/media/posts/1/Yu-Luo-Gai-Gai-ex.1.png\" alt=\"羽落蓋蓋 &lt; 特編集&gt;\" width=\"1920\" height=\"1080\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://yuloyik.github.io/yUYiNkE_Workshop/media/posts/1/responsive/Yu-Luo-Gai-Gai-ex.1-xs.png 300w ,https://yuloyik.github.io/yUYiNkE_Workshop/media/posts/1/responsive/Yu-Luo-Gai-Gai-ex.1-sm.png 480w ,https://yuloyik.github.io/yUYiNkE_Workshop/media/posts/1/responsive/Yu-Luo-Gai-Gai-ex.1-md.png 768w ,https://yuloyik.github.io/yUYiNkE_Workshop/media/posts/1/responsive/Yu-Luo-Gai-Gai-ex.1-lg.png 1024w ,https://yuloyik.github.io/yUYiNkE_Workshop/media/posts/1/responsive/Yu-Luo-Gai-Gai-ex.1-xl.png 1360w ,https://yuloyik.github.io/yUYiNkE_Workshop/media/posts/1/responsive/Yu-Luo-Gai-Gai-ex.1-2xl.png 1600w\"></figure>",
+            "author": {
+                "name": "yUYiNkE★羽音克"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-05-09T20:46:18+08:00",
+            "date_modified": "2024-05-09T20:46:18+08:00"
+        }
+    ]
+}
